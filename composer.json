@@ -1,0 +1,20 @@
+{
+    "name": "centosquare/mohsinmemon",
+    "description": "This is crud",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mnmohsin",
+            "email": "mohsin.centosquare@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            " centosquare\\mohsinmemon\\": "src/"
+        }
+    }
+
+}
